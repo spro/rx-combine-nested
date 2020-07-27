@@ -1,0 +1,17 @@
+{
+  "name": "rx-combine-nested",
+  "version": "0.0.1",
+  "description": "Combine arbitrarily nested objects/arrays of RxJS observables into a single observable",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "Sean Robertson",
+  "license": "MIT",
+  "dependencies": {
+    "rxjs": "^6.6.0"
+  }
+}
